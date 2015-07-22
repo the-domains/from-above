@@ -1,7 +1,7 @@
 name: From Above
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0
+typography_spectrum: 0.46216
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#49e6f6'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
