@@ -1,19 +1,4 @@
-name: From Above
-favicon: null
-layout_spectrum: 0.2027
 typography_spectrum: 0.46216
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#010103'
@@ -25,4 +10,20 @@ color:
   lightness: 0.625
   saturation: 0.125
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2027
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: From Above
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Photos taken from above
 purpose: []
